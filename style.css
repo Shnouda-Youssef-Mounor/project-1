@@ -1,0 +1,474 @@
+@media only screen and (max-width:600px) {
+    body {
+        background-image: url(img/IMG_20180101_152946_405.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+    }
+    .jesus {
+        margin-top: 10%;
+        text-align: center;
+        color: gainsboro;
+        font-size: x-large;
+    }
+    .log {
+        margin-top: 10%;
+        margin-left: 25%;
+    }
+    .email {
+        display: block;
+        margin-top: 5px;
+        max-width: 100%;
+        border-radius: 20px;
+    }
+    .pass {
+        display: block;
+        margin-top: 5px;
+        max-width: 100%;
+        border-radius: 20px;
+    }
+    .login {
+        display: block;
+        background-color: gainsboro;
+        margin-top: 5px;
+        margin-left: 20%;
+        width: 75px;
+        border-radius: 20px;
+    }
+    .login:hover {
+        background-color: rgba(220, 220, 220, 0.747);
+        border: 2px;
+        border-style: solid;
+        border-color: rgb(255, 196, 0);
+    }
+    img {
+        width: 30px;
+        height: 30px;
+        height: auto;
+    }
+    .gm {
+        margin-left: 45px;
+    }
+    img:hover {
+        width: 40px;
+        height: auto;
+        transition-duration: 1s;
+        transition-property: all;
+        transition-timing-function: ease-out;
+    }
+    .or {
+        display: block;
+        padding: 0;
+        margin: 0;
+        margin-top: 5p;
+        margin-left: 30%;
+        color: gainsboro;
+        font-size: larger;
+    }
+    .face {
+        display: block;
+        margin-left: 15%;
+    }
+    .by {
+        font-weight: bold;
+        margin-left: 23%;
+        display: block;
+        color: gainsboro;
+        margin-top: 5%;
+    }
+}
+
+@media only screen and (min-width:600px) {
+    body {
+        background-image: url(img/IMG_20180101_152946_405.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+    }
+    .jesus {
+        margin-top: 5%;
+        text-align: center;
+        color: gainsboro;
+        font-size: xx-large;
+        font-size: 7ch;
+        font-weight: bolder;
+    }
+    .log {
+        margin-top: 3%;
+        margin-left: 30%;
+    }
+    .email {
+        text-align: center;
+        display: block;
+        margin-top: 5px;
+        width: 250px;
+        height: 35px;
+        border-radius: 20px;
+    }
+    .pass {
+        text-align: center;
+        display: block;
+        margin-top: 8px;
+        width: 250px;
+        height: 35px;
+        border-radius: 20px;
+    }
+    .login {
+        display: block;
+        background-color: gainsboro;
+        margin-top: 8px;
+        margin-left: 18%;
+        width: 100px;
+        height: 30px;
+        border-radius: 20px;
+    }
+    .login:hover {
+        color: rgb(255, 196, 0);
+        border: 2px;
+        border-style: solid;
+        border-color: rgb(255, 196, 0);
+    }
+    img {
+        width: 50px;
+        height: 50px;
+        height: auto;
+    }
+    .gm {
+        margin-left: 70px;
+    }
+    img:hover {
+        width: 60px;
+        height: auto;
+        transition-duration: 1s;
+        transition-property: all;
+        transition-timing-function: ease-out;
+    }
+    .or {
+        display: block;
+        padding: 0;
+        margin: 0;
+        margin-top: 5p;
+        margin-left: 26%;
+        color: gainsboro;
+        font-size: x-large;
+    }
+    .face {
+        display: block;
+        margin-left: 8%;
+    }
+    .by {
+        font-weight: bold;
+        font-size: 2ch;
+        margin-left: 21%;
+        display: block;
+        color: gainsboro;
+        margin-top: 5%;
+    }
+}
+
+@media only screen and (min-width:768px) {
+    body {
+        background-image: url(img/wp400110.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+    }
+    .jesus {
+        margin: 0;
+        margin-top: 22%;
+        margin-left: 3%;
+        text-align: left;
+        width: 512px;
+        color: gainsboro;
+        font-size: xx-large;
+        font-size: 5ch;
+        font-weight: bolder;
+    }
+    .log {
+        float: right;
+        margin-top: -10%;
+        margin-right: 19%;
+    }
+    .email {
+        text-align: center;
+        display: block;
+        margin-top: 5px;
+        width: 250px;
+        height: 35px;
+        border-radius: 20px;
+    }
+    .pass {
+        text-align: center;
+        display: block;
+        margin-top: 8px;
+        width: 250px;
+        height: 35px;
+        border-radius: 20px;
+    }
+    .login {
+        display: block;
+        background-color: gainsboro;
+        margin-top: 8px;
+        margin-left: 27%;
+        width: 100px;
+        height: 30px;
+        border-radius: 20px;
+    }
+    .login:hover {
+        border: 2px;
+        color: rgb(255, 196, 0);
+        border-style: solid;
+        border-color: rgb(255, 196, 0);
+    }
+    img {
+        width: 50px;
+        height: 50px;
+        height: auto;
+    }
+    .gm {
+        margin-left: 70px;
+    }
+    img:hover {
+        width: 60px;
+        max-height: 100%;
+        transition-duration: 1s;
+        transition-property: all;
+        transition-timing-function: ease-out;
+    }
+    .or {
+        display: block;
+        padding: 0;
+        margin: 0;
+        margin-top: 5px;
+        margin-left: 40%;
+        color: gainsboro;
+        font-size: x-large;
+    }
+    .face {
+        display: block;
+        margin-left: 10%;
+    }
+    .by {
+        font-weight: bold;
+        font-size: 2ch;
+        margin-left: 32%;
+        display: block;
+        color: gainsboro;
+        margin-top: 45%;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    body {
+        background-image: url(img/992.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+    }
+    .jesus {
+        margin: 0;
+        margin-top: 22%;
+        margin-left: 3%;
+        text-align: left;
+        width: 512px;
+        color: gainsboro;
+        font-size: xx-large;
+        font-size: 5ch;
+        font-weight: bolder;
+    }
+    .log {
+        float: right;
+        margin-top: -10%;
+        margin-right: 19%;
+    }
+    .email {
+        text-align: center;
+        display: block;
+        margin-top: 5px;
+        width: 250px;
+        height: 35px;
+        border-radius: 20px;
+    }
+    .pass {
+        text-align: center;
+        display: block;
+        margin-top: 8px;
+        width: 250px;
+        height: 35px;
+        border-radius: 20px;
+    }
+    .login {
+        display: block;
+        background-color: gainsboro;
+        margin-top: 8px;
+        margin-left: 27%;
+        width: 100px;
+        height: 30px;
+        border-radius: 20px;
+    }
+    .login:hover {
+        border: 2px;
+        color: rgb(255, 196, 0);
+        border-style: solid;
+        border-color: rgb(255, 196, 0);
+    }
+    img {
+        width: 50px;
+        height: 50px;
+        height: auto;
+    }
+    .gm {
+        margin-left: 70px;
+    }
+    img:hover {
+        width: 60px;
+        max-height: 100%;
+        transition-duration: 1s;
+        transition-property: all;
+        transition-timing-function: ease-out;
+    }
+    .or {
+        display: block;
+        padding: 0;
+        margin: 0;
+        margin-top: 5px;
+        margin-left: 40%;
+        color: gainsboro;
+        font-size: x-large;
+    }
+    .face {
+        display: block;
+        margin-left: 10%;
+    }
+    .by {
+        font-weight: bold;
+        font-size: 2ch;
+        margin-left: 30%;
+        display: block;
+        color: gainsboro;
+        margin-top: 45%;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        background-image: url(img/1200.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        height: auto;
+    }
+    .jesus {
+        text-shadow: 2px 2px rgb(255, 196, 0);
+        margin: 0;
+        margin-top: 20%;
+        margin-left: 3%;
+        text-align: left;
+        width: 512px;
+        color: black;
+        text-shadow: 5ch;
+        font-size: xx-large;
+        font-size: 6ch;
+        font-weight: bolder;
+    }
+    .jesus:hover {
+        text-shadow: 2px 2px black;
+        color: rgb(255, 196, 0);
+    }
+    .log {
+        float: right;
+        margin-top: -10%;
+        margin-right: 19%;
+    }
+    .email {
+        text-align: center;
+        display: block;
+        margin-top: 10px;
+        width: 250px;
+        height: 35px;
+        border-radius: 20px;
+    }
+    .pass {
+        text-align: center;
+        display: block;
+        margin-top: 8px;
+        width: 250px;
+        height: 35px;
+        border-radius: 20px;
+    }
+    .login {
+        display: block;
+        background-color: black;
+        color: rgb(255, 196, 0);
+        border: 2px;
+        border-style: solid;
+        border-color: rgb(255, 196, 0);
+        font-weight: bold;
+        margin-top: 8px;
+        margin-left: 27%;
+        width: 100px;
+        height: 30px;
+        border-radius: 20px;
+    }
+    .login:hover {
+        background-color: rgb(255, 196, 0);
+        color: black;
+        font-weight: bold;
+        border: 2px;
+        border-style: solid;
+        border-color: black;
+    }
+    img {
+        width: 50px;
+        height: 50px;
+        height: auto;
+    }
+    .gm {
+        margin-left: 70px;
+    }
+    img:hover {
+        width: 60px;
+        max-height: 100%;
+        border-radius: 50px;
+        box-shadow: 2px 2px 2px 2px rgb(255, 196, 0);
+        color: black;
+        transition-duration: 1s;
+        transition-property: all;
+        transition-timing-function: ease-out;
+    }
+    .or {
+        display: block;
+        padding: 0;
+        margin: 0;
+        margin-top: 5px;
+        margin-left: 40%;
+        text-shadow: 2px 2px black;
+        color: rgb(255, 196, 0);
+        font-size: x-large;
+    }
+    .or:hover {
+        text-shadow: 2px 2px rgb(255, 196, 0);
+        color: black;
+    }
+    .face {
+        display: block;
+        margin-left: 10%;
+    }
+    .by {
+        font-weight: bold;
+        font-size: 2ch;
+        margin-left: 30%;
+        display: block;
+        text-shadow: 2px 2px black;
+        color: rgb(255, 196, 0);
+        margin-top: 45%;
+    }
+    .by:hover {
+        text-shadow: 2px 2px rgb(255, 196, 0);
+        color: black;
+    }
+}
